@@ -1,6 +1,9 @@
 {
     "name":"Fabricæ Universi",
     "short_name":"Fabricæ Universi",
+    "categories": [
+        "education"
+    ],
     "icons":[
         {
             "src":"favicons/android-chrome-192x192.png",
@@ -15,5 +18,7 @@
     ],
     "display":"standalone",
     "description": "Little blog about great webs and non-obvious snakes",
-    "lang": "ru"
+    "lang": "ru",
+    "dir": "auto",
+    "orientation": "any"
 }
