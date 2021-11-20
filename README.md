@@ -12,9 +12,8 @@
 
 - Planned
 
-    - Хэш-функции
+    - [Хэш-функции](./_drafts/hashes.md)
     - Oauth2
     - Web-Socket
     - CORS
     - CSRF
-    
