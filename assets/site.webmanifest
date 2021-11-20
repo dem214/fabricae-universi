@@ -1,6 +1,6 @@
 {
     "name":"Fabricæ Universi",
-    "short_name":"FU",
+    "short_name":"Fabricæ Universi",
     "icons":[
         {
             "src":"favicons/android-chrome-192x192.png",
@@ -13,8 +13,6 @@
             "type":"image/png"
         }
     ],
-    "theme_color":"#ffffff",
-    "background_color":"#ffffff",
     "display":"standalone",
     "description": "Little blog about great webs and non-obvious snakes",
     "lang": "ru"
