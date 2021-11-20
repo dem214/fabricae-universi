@@ -43,4 +43,19 @@ exclude:
   - LICENSE
 
 # domain: dem214.guthub.io
+
+# Localization
 lang: ru
+timezone: Europe/Minsk
+
+permalink: /:categories/:slug/
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: "Dzmitry Izaitka <dem214@mail.ru>"
