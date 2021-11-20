@@ -50,7 +50,6 @@ timezone: Europe/Minsk
 
 permalink: /:categories/:slug/
 
-
 defaults:
   -
     scope:
@@ -58,4 +57,7 @@ defaults:
       type: posts
     values:
       layout: post
-      author: "Dzmitry Izaitka <dem214@mail.ru>"
+
+author:
+  name: Dzmitry Izaitka
+  email: dem214@mail.ru
