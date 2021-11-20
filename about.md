@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: О нас
 permalink: /about/
+lang: ru
 ---
 
 Всем привет!

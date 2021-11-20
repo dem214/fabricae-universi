@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fabricae Universi
+title: Fabricæ Universi
 email: dem214@mail.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Little blog about great webs and non-obvious snakes
@@ -41,3 +41,4 @@ plugins:
 #   - vendor/ruby/
 
 # domain: dem214.guthub.io
+lang: ru
