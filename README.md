@@ -17,3 +17,7 @@
     - Web-Socket
     - CORS
     - CSRF
+    - реверс-прокси
+    - форматы сериализации
+    - Docker
+    - Kubernetes
