@@ -1,6 +1,6 @@
 # fabricae-universi
 
-<dem214.github.io/fabricae-universi>
+<https://dem214.github.io/fabricae-universi>
 
 ## Articles
 
