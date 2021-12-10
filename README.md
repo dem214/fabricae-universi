@@ -23,3 +23,7 @@
     - Kubernetes
     - SSH
     - TLS, сертификаты
+    - блокчейн
+    - Web 3.0
+    - асихронный python
+    - jwt
