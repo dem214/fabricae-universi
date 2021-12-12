@@ -2,6 +2,12 @@
 
 <https://dem214.github.io/fabricae-universi>
 
+## Start locally
+
+```sh
+bundler exec jekyll serve --draft --livereload
+```
+
 ## Articles
 
 - Published
@@ -10,9 +16,10 @@
 
 - Draft
 
+    - [Хэш-функции](./_drafts/hashes.md)
+
 - Planned
 
-    - [Хэш-функции](./_drafts/hashes.md)
     - Oauth2
     - Web-Socket
     - CORS
